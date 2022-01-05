@@ -1,0 +1,175 @@
+html
+{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiXlMDq2CHZQ40FGJXWjlqjENy00ZJWmK9MQ&usqp=CAU);
+    background-size: cover;
+    
+}
+
+.login
+{
+    width: 400px;
+    height: 730px;
+    background-color: hsl(210, 17%, 98%);
+    text-align: center;
+    margin: 3% 35% ;
+    border-radius: 10px;
+      
+    
+}
+.title
+{
+    padding-top: 5px;
+    background-color: rgb(54, 110, 93);
+    color: #f7f7f7;
+    border-radius: 5px;
+}
+form
+{
+   margin-top: 30px;
+   
+}
+span
+{
+    display: inline-block;
+    color: #818181;
+    background-color: #a6cadfa4;
+    border-radius: 20px;
+    text-align: center;
+    width: 100px;
+}
+#name
+{
+    width: 75%;
+    height: 40px;      
+    border-radius: 30px;
+    border-style: none;
+    text-align: center;
+}
+#surname
+{
+    width: 75%;
+    height: 40px;      
+    border-radius: 30px;
+    border-style: none;
+    text-align: center;
+}
+#email
+{
+    width: 75%;
+    height: 40px;      
+    border-radius: 30px;
+    border-style: none;
+    text-align: center;
+}
+#username
+{
+    width: 75%;
+    height: 40px;      
+    border-radius: 30px;
+    border-style: none;
+    text-align: center;
+}   
+
+#password
+{
+    width: 75%;
+    height: 40px;      
+    border-radius: 30px;
+    border-style: none;
+    text-align: center;
+}
+
+.link
+{
+padding-left: 90px;
+text-decoration: none;
+
+}
+.link:link
+{
+    color: rgba(172, 180, 206, 0.63);
+}
+.link:hover
+{
+    color: #000000;
+}
+/* .remember
+{
+    position: relative;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 15px;
+    color: #818181;
+    padding-top: 3px;
+    padding-left: 10px;
+    
+} */
+.log
+{
+    background-color: rgb(58, 125, 128);
+    color: #f7f7f7;
+    width: 180px;
+    height: 50px;
+    border-radius: 30px;
+    border-style: none;
+}
+/* .reg
+{
+    background-color: rgb(252, 82, 82);
+    color: #f7f7f7;
+    width: 180px;
+    height: 50px;
+    border-radius: 30px;
+    border-style: none;
+    position: relative;
+    left: 15px;    
+    
+} */
+/* .reglink
+{
+    text-decoration: none;
+    color: #f7f7f7;
+} */
+/* .gmail
+{
+    background-color: rgb(216, 75, 75);
+    color: #f7f7f7;
+    width: 380px;
+    height: 50px;
+    border-radius: 30px;
+    border-style: none;
+} */
+.sign
+{
+    background-color: rgb(67, 201, 96);
+    color: #f7f7f7;
+    width: 380px;
+    height: 50px;
+    border-radius: 30px;
+    border-style: none;
+    /* position: relative;
+    right: 5px; */
+}
+.box
+{    
+    text-align: left;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 15px;
+    color: green; 
+}
+p
+{
+    text-align: center;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 15px;
+}
+ #in:link
+{
+    
+    text-decoration: none;
+}
+
+
+
